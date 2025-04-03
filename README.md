@@ -11,7 +11,7 @@
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Java** (Liberica JDK LTS Full 21)
+- **JDK** (Liberica JDK LTS Full 21)
 - **JavaFX** (Bibliotecas para interfaces gráficas)
 - **Gradle** (Para gestión de dependencias)
 
