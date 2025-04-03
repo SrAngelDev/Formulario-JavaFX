@@ -17,6 +17,6 @@
 
 ## 📜 Requisitos Previos
 
-1. Tener instalado [Liberica JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html](https://bell-sw.com/pages/downloads/#jdk-21-lts/).
-2. Descargar e integrar [JavaFX SDK](https://openjfx.io/).
-3. Configurar un entorno de desarrollo (en mi caso IntelliJ IDEA).
+1. **Instalar [Liberica JDK](https://bell-sw.com/pages/downloads/#jdk-21-lts/):** Asegúrate de descargar la versión adecuada para tu sistema operativo.
+2. **Descargar e integrar [JavaFX SDK](https://openjfx.io/):** Sigue las instrucciones oficiales para añadirlo correctamente a tu entorno.
+3. **Configurar tu entorno de desarrollo:** En este proyecto se utilizó **IntelliJ IDEA**, pero puedes usar cualquier IDE compatible.
