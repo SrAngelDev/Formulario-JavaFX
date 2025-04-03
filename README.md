@@ -1,6 +1,6 @@
 # Formulario de Bienvenida en JavaFX
 
-¡Bienvenido/a! Este proyecto es una implementación sencilla de un formulario de bienvenida desarrollado en **JavaFX**, ideal para aprender y practicar los conceptos básicos de esta potente herramienta para crear interfaces gráficas en Java.
+¡Bienvenido/a! Este proyecto es una implementación sencilla de un formulario de bienvenida desarrollado en **JavaFX**, ideal para aprender y practicar los conceptos básicos de esta potente herramienta para crear interfaces gráficas en Java, aunque en este caso utilizando Kotlin.
 
 ## 🚀 Características
 
